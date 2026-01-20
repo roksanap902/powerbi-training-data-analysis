@@ -1,6 +1,6 @@
 ## Dashboard preview
 
-![Dashboard overview](dashboard.png)
+![Dashboard overview](dashboard.png, filters.png)
 
 # Training Data Analysis – Power BI
 
