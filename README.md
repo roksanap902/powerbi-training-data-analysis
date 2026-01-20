@@ -1,3 +1,7 @@
+## Dashboard preview
+
+![Dashboard overview](Zrzut ekranu (179).png)
+
 # Training Data Analysis – Power BI
 
 ## Project overview
